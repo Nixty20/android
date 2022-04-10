@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				44,
-				36
+				-17
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				-43,
-				-9
+				-15
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				107,
-				-2
+				-10
 			],
 			"loop": false,
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				86,
-				-82
+				-86
 			],
 			"loop": false,
 			"fps": 24,
@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				11,
-				29
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				107,
-				-7
+				-10
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,7 +69,7 @@
 		{
 			"offsets": [
 				-50,
-				5
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -80,7 +80,7 @@
 		{
 			"offsets": [
 				86,
-				-81
+				-86
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				-50,
-				5
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -102,7 +102,7 @@
 		{
 			"offsets": [
 				11,
-				32
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -113,7 +113,7 @@
 		{
 			"offsets": [
 				144,
-				112
+				104
 			],
 			"loop": false,
 			"fps": 24,
@@ -146,7 +146,7 @@
 		{
 			"offsets": [
 				399,
-				92
+				80
 			],
 			"loop": false,
 			"fps": 24,
@@ -157,7 +157,7 @@
 		{
 			"offsets": [
 				450,
-				69
+				60
 			],
 			"loop": false,
 			"fps": 24,
@@ -168,7 +168,7 @@
 		{
 			"offsets": [
 				205,
-				83
+				75
 			],
 			"loop": false,
 			"fps": 24,
@@ -179,7 +179,7 @@
 		{
 			"offsets": [
 				9,
-				97
+				90
 			],
 			"loop": false,
 			"fps": 24,
@@ -191,7 +191,7 @@
 			"loop": false,
 			"offsets": [
 				10,
-				21
+				11
 			],
 			"anim": "noAmmo",
 			"fps": 24,
@@ -227,7 +227,7 @@
 		{
 			"offsets": [
 				137,
-				116
+				103
 			],
 			"loop": true,
 			"fps": 24,
@@ -241,7 +241,7 @@
 		{
 			"offsets": [
 				0,
-				8
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -252,11 +252,8 @@
 		{
 			"offsets": [
 				70,
-				-79
+				-90
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
 			"indices": [
 				1,
 				2,
@@ -274,14 +271,17 @@
 				2,
 				3
 			],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
 			"name": "PicoDodging"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Pico",
 	"position": [
 		0,
-		380
+		300
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -295,5 +295,5 @@
 		-10
 	],
 	"sing_duration": 4,
-	"scale": 2.0
+	"scale": 1
 }
